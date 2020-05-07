@@ -2,7 +2,7 @@
 - Maintainer：weachy（维奇）
 - 采菊东篱下，悠然见南山
 
-如果你想了解更多关于 NUC8ixBE 豆子峡谷黑苹果相关知识，请查阅我的文章 http://u.nu/nuc8
+如果你想了解更多关于 NUC8ixBE 豆子峡谷黑苹果相关知识，请查阅我的文章 http://u.nu/nuc8
 If you want to learn more about hackintosh with Intel NUC 'Bean Canyon'. Please visit: https://u.nu/nuc8
 
 
